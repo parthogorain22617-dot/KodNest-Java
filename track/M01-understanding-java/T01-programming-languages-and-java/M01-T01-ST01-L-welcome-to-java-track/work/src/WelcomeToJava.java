@@ -5,5 +5,7 @@ public class WelcomeToJava {
        System.out.println("My name is Shivam");
        System.out.println("My name is Sonu");
        System.out.println("Hello World");
+       System.out.println("aa gaya bhai");
+       System.out.println("sonu kuamri ");
     }
 }
